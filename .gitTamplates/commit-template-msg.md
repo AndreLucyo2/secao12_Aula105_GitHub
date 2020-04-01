@@ -1,11 +1,11 @@
-#Assunto: 
+# Assunto: 
 ## [MAX50caracteres] -Descreva o titulo/assunto do commit
 
-#Descricao:
+# Descricao:
 ## [MAX70caracteres] - Problema, Tarefa, Razão para Confirmar 
 
-#Solução:
+# Solução:
 ## Solução ou Lista de Alterações 
 
-#Nota: 
+# Nota: 
 ## Instruções especiais, etapas de teste, rake, etc.
